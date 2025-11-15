@@ -1,0 +1,6 @@
+{
+  "n_series": 12000,
+  "anomaly_fraction": 0.03,
+  "generated_at": "2025-11-15 18:16:27.874623",
+  "csv_path": "C:\\Users\\DHANASHRI\\Downloads\\data\\synthetic_timeseries.csv"
+}
